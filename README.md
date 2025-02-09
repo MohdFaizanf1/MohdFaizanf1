@@ -1,16 +1,13 @@
-## Hi there 👋
+                                                          🙋‍♂️ السلام علیکم, I'm Mohd Faiz  #  
+**👨‍💻 Software Developer | تکنیکی مصنف | MERN Stack Enthusiast**  
 
-<!--
-**MohdFaizanf1/MohdFaizanf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+                                                                      "نام": "محمّد فائزان",    
+  "vision": "مسلسل بہتری (Continuous Improvement)",
+  "languages": ["اردو (Urdu)", "English", "हिन्दी (Hindi)"],
+  "skills": ["JavaScript", "Python", "React", "MongoDB"],
+  "contact": { "email": "faizfaizanfaizz@gmail.com" }
+}
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
