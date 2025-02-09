@@ -22,13 +22,13 @@
 
 ### **Connect with me** 🌐
 
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/mohd-faizan-a806a828a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/faixn.1/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="50" height="50"/>
   </a>
 </p>
 
