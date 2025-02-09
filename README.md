@@ -1,4 +1,4 @@
-                                                          🙋‍♂️ السلام علیکم, I'm Mohd Faiz  #  
+I'm Mohd Faizan 
 **👨‍💻 Software Developer | تکنیکی مصنف | MERN Stack Enthusiast**  
 
 ```json
