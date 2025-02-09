@@ -1,4 +1,4 @@
-#  👋 **السلام علیکم, I'm Mohd Faizan!**
+<h1 align="center"><strong>👋 السلام علیکم, I'm Mohd Faizan!</strong></h1>
 
 **👨‍💻 Software Developer | تکنیکی مصنف | MERN Stack Enthusiast**  
 
