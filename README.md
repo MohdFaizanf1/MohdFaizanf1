@@ -22,7 +22,9 @@
 
 ### **Connect with me** 🌐
 
-<p >
+
+
+<p>
   <a href="https://www.linkedin.com/in/mohd-faizan-a806a828a/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
