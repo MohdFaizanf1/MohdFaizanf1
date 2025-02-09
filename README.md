@@ -1,6 +1,9 @@
-<h1 align="center"><strong>👋 السلام علیکم, I'm Mohd Faizan!</strong></h1>
+<h1 align="center">👋 السلام علیکم, I'm Mohd Faizan!</h1>
 
-**👨‍💻 Software Developer | تکنیکی مصنف | MERN Stack Enthusiast**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Developer;React.js+Developer;Software+Engineer" alt="Typing SVG" />
+</p>
+
 
 ```json
 {
