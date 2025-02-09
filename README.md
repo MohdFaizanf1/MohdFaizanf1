@@ -20,17 +20,16 @@
 
 
 
-### **Connect with me** 🌐
-
-
-
-<p>
+### **Connect with me** 🌐  
+<br>  
+<br>
+<p align="center">
   <a href="https://www.linkedin.com/in/mohd-faizan-a806a828a/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/faixn.1/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"/>
   </a>
 </p>
 
