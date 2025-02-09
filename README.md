@@ -1,4 +1,6 @@
 I'm Mohd Faizan 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdfaizan)
+
 **👨‍💻 Software Developer | تکنیکی مصنف | MERN Stack Enthusiast**  
 
 ```json
@@ -13,5 +15,4 @@ I'm Mohd Faizan
 
 
 
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdfaizan)**
 
