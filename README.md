@@ -25,7 +25,7 @@
 
 <p align="left">
     <a style="margin: 0 10px" href="https://www.linkedin.com/in/mohd-faizan-a806a828a/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+        <img align="center" src="https://static.vecteezy.com/system/resources/previews/021/460/490/original/linkedin-logo-free-download-free-png.png" alt="linkedin" height="30" width="40" />
     </a>
     <a style="margin: 0 10px" href="https://www.instagram.com/faixn.1/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
