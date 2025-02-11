@@ -28,7 +28,7 @@
         <img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="linkedin" height="30" width="40" />
     </a>
     <a style="margin: 0 10px" href="https://www.instagram.com/faixn.1/" target="blank">
-        <img align="center" src="https://th.bing.com/th/id/OIP.5RwXPrWqv58MznvrOo3_xAHaHw?rs=1&pid=ImgDetMain" alt="instagram" height="30" width="40" />
+        <img align="center" src="https://th.bing.com/th/id/OIP.h-IP2bSN3FJnB6bvJ9R-GgHaHa?rs=1&pid=ImgDetMain" alt="instagram" height="30" width="40" />
     </a>
 </p>
 
