@@ -28,7 +28,7 @@
         <img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="linkedin" height="30" width="40" />
     </a>
     <a style="margin: 0 10px" href="https://www.instagram.com/faixn.1/" target="blank">
-        <img align="center" src=" https://1.bp.blogspot.com/-63r-15zpmOM/X8Q6wGtvi4I/AAAAAAAARjA/D4l2GIB45HQnygIOHe2sLnJSrI6V5nqLgCLcBGAsYHQ/s0/Instagram%2BLogo%2B-%2BDownload%2BFree%2BVector%2BPNG.png" alt="instagram" height="30" width="40" />
+        <img align="center" src="https://1.bp.blogspot.com/-63r-15zpmOM/X8Q6wGtvi4I/AAAAAAAARjA/D4l2GIB45HQnygIOHe2sLnJSrI6V5nqLgCLcBGAsYHQ/s0/Instagram%2BLogo%2B-%2BDownload%2BFree%2BVector%2BPNG.png" alt="instagram" height="30" width="40" />
     </a>
 </p>
 
