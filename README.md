@@ -24,13 +24,14 @@
 ## 👉 Connect with me:
 
 <p align="left">
-    <a style="margin: 0 10px" href="https://www.linkedin.com/in/mohd-faizan-a806a828a/" target="blank">
-        <img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="linkedin" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/mohd-faizan-a806a828a/" target="blank">
+        <img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="linkedin" height="30" width="40" style="margin-right: 15px;" />
     </a>
-    <a style="margin: 0 10px" href="https://www.instagram.com/faixn.1/" target="blank">
+    <a href="https://www.instagram.com/faixn.1/" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" height="30" width="40" />
     </a>
 </p>
+
 
 
 
