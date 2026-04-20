@@ -33,6 +33,19 @@
   "email": "faizfaizanfaizz@gmail.com"
 }
 ```
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=dark&ext=activity" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=dark&ext=contest" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=dark&ext=rating" width="90%"/>
+</p>
+
 <p align="center">
   <a href="https://leetcode.com/mohd_faizan1/">
     <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
