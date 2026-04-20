@@ -38,14 +38,14 @@
 
 <p align="center">
   <a href="https://leetcode.com/mohd_faizan1/">
-    <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=dark&font=Baloo%202&ext=heatmap" width="80%" />
+    <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=dark&font=Baloo%202&ext=heatmap" width="85%" />
   </a>
 </p>
 
 ---
 
-## 📊 LeetCode Progress
+## 🚀 LeetCode Overview
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=mohd_faizan1&theme=dark" width="70%" />
+  <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=dark&font=Baloo%202" width="85%" />
 </p>
