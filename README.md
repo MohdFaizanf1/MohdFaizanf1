@@ -34,5 +34,7 @@
 }
 ```
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=mohd_faizan1&theme=dark" width="80%"/>
+  <a href="https://leetcode.com/mohd_faizan1/">
+    <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
