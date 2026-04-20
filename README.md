@@ -34,6 +34,7 @@
 }
 ```
 
+
 ## 🧠 LeetCode Stats
 
 <p align="center">
@@ -44,8 +45,3 @@
 
 ---
 
-## 🚀 LeetCode Overview
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=dark&font=Baloo%202" width="85%" />
-</p>
