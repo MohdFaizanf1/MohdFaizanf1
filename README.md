@@ -34,5 +34,5 @@
 }
 ```
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=light&ext=heatmap" width="90%"/>
+  <img src="https://leetcode-stats-six.vercel.app/api?username=mohd_faizan1&theme=dark" width="80%"/>
 </p>
