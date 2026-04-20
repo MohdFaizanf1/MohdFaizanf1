@@ -9,6 +9,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=dark&font=Baloo%202&ext=heatmap" width="90%"/>
+</p>
+
 
 ## 🧑‍💻 About Me
 
@@ -31,6 +35,3 @@
   "email": "faizfaizanfaizz@gmail.com"
 }
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=dark&font=Baloo%202&ext=heatmap" width="90%"/>
-</p>
