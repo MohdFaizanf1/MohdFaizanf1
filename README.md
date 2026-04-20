@@ -1,1 +1,50 @@
-<h1 align="center">👋 السلام علیکم, I'm Mohd Faizan!</h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=🔥+MERN+Stack+Developer;🚀+Full+Stack+Developer;⚛️+React.js+Developer;💻+Software+Engineer" alt="Typing SVG" /> </p> json { "vision": "مسلسل بہتری (Continuous Improvement)", "languages": ["اردو (Urdu)", "English", "हिन्दी (Hindi)"], "skills": ["JavaScript", "Python", "React", "MongoDB"], "contact": { "email": "faizfaizanfaizz@gmail.com" } } <br> <br> ## 👉 Connect with me: <p align="left"> <a href="https://www.linkedin.com/in/mohd-faizan-a806a828a/" target="blank"> <img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="linkedin" height="30" width="40" style="margin-right: 15px;" /> </a> <a href="https://www.instagram.com/faixn.1/" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" height="30" width="40" /> </a> </p>
+## 🧠 LeetCode Power
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=dark&font=Baloo%202&ext=heatmap" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=dark&ext=activity" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=dark&ext=contest" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=dark&ext=rating" width="90%"/>
+</p>
+
+---
+
+## 📊 LeetCode Progress Graph
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=light&ext=heatmap" width="90%"/>
+</p>
+
+---
+
+## 🚀 Problem Solving Journey
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=mohd_faizan1&theme=dark" width="80%"/>
+</p>
+
+---
+
+## 🏆 My Coding Focus
+
+- 🔥 Daily DSA Practice  
+- 🧠 Strong grip on Patterns  
+- ⚡ Focus on Speed + Optimization  
+- 🎯 Target: Crack Top Tech Companies  
+
+---
+
+<p align="center">
+  <a href="https://leetcode.com/mohd_faizan1/">
+    <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
