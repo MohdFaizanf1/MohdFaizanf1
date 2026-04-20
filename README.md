@@ -9,9 +9,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=dark&font=Baloo%202&ext=heatmap" width="90%"/>
-</p>
+
 
 
 ## 🧑‍💻 About Me
@@ -34,4 +32,7 @@
   "focus": ["Full Stack", "DSA", "DevOps"],
   "email": "faizfaizanfaizz@gmail.com"
 }
-
+```
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mohd_faizan1?theme=light&ext=heatmap" width="90%"/>
+</p>
